@@ -1,0 +1,1 @@
+/home/kami/桌面/H2OS/kernel/target/riscv64gc-unknown-none-elf/release/kernel: /home/kami/桌面/H2OS/kernel/src/console.rs /home/kami/桌面/H2OS/kernel/src/entry.asm /home/kami/桌面/H2OS/kernel/src/lang_items.rs /home/kami/桌面/H2OS/kernel/src/logging.rs /home/kami/桌面/H2OS/kernel/src/main.rs /home/kami/桌面/H2OS/kernel/src/sbi.rs
