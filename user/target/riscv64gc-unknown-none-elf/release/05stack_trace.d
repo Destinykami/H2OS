@@ -1,0 +1,1 @@
+/home/kami/桌面/H2OS/user/target/riscv64gc-unknown-none-elf/release/05stack_trace: /home/kami/桌面/H2OS/user/src/bin/05stack_trace.rs /home/kami/桌面/H2OS/user/src/console.rs /home/kami/桌面/H2OS/user/src/lang_items.rs /home/kami/桌面/H2OS/user/src/lib.rs /home/kami/桌面/H2OS/user/src/syscall.rs

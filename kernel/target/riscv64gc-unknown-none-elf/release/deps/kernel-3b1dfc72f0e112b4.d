@@ -9,4 +9,4 @@ src/sbi.rs:
 src/logging.rs:
 src/entry.asm:
 
-# env-dep:LOG=TRACE
+# env-dep:LOG

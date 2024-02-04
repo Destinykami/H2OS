@@ -1,0 +1,11 @@
+/home/kami/桌面/H2OS/user/target/release/deps/libsemver_parser-4c0b89f35a04a590.rmeta: /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/lib.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/version.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/range.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/common.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/recognize.rs
+
+/home/kami/桌面/H2OS/user/target/release/deps/libsemver_parser-4c0b89f35a04a590.rlib: /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/lib.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/version.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/range.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/common.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/recognize.rs
+
+/home/kami/桌面/H2OS/user/target/release/deps/semver_parser-4c0b89f35a04a590.d: /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/lib.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/version.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/range.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/common.rs /home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/recognize.rs
+
+/home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/lib.rs:
+/home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/version.rs:
+/home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/range.rs:
+/home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/common.rs:
+/home/kami/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/semver-parser-0.7.0/src/recognize.rs:

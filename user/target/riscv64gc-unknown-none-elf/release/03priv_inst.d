@@ -1,0 +1,1 @@
+/home/kami/桌面/H2OS/user/target/riscv64gc-unknown-none-elf/release/03priv_inst: /home/kami/桌面/H2OS/user/src/bin/03priv_inst.rs /home/kami/桌面/H2OS/user/src/console.rs /home/kami/桌面/H2OS/user/src/lang_items.rs /home/kami/桌面/H2OS/user/src/lib.rs /home/kami/桌面/H2OS/user/src/syscall.rs
